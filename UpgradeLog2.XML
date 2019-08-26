@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EnterpriceMobile">
+</Property><Property Name="Solution File" Value="D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\EnterpriceMobile.sln">
+</Property><Property Name="User Options File" Value="D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\EnterpriceMobile.suo">
+</Property><Property Name="Date" Value="23 Ekim 2008 Perşembe">
+</Property><Property Name="Time" Value="15:45">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EnterpriceMobile.sln" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\EnterpriceMobile.sln">
+</Event><Event ErrorLevel="0" Project="" Source="EnterpriceMobile.suo" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\EnterpriceMobile.suo">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="EnterpriceMobile.csproj" Description="Project file successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\EnterpriceMobile.csproj">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="EnterpriceMobile.csproj.user" Description="Project user file successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\EnterpriceMobile.csproj.user">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="AktarmalarForm.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\AktarmalarForm.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="Cari.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\Cari.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="CariBilgiForm.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\CariBilgiForm.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="config.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\config.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="ConfigurationForm.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\ConfigurationForm.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="DateCombos.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\DateCombos.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="DBProcess.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\DBProcess.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="Form1.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="KilometreGiris.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\KilometreGiris.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="SifreSor.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\SifreSor.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="SiparisBaslikRaporForm.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\SiparisBaslikRaporForm.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="SiparisDetay.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\SiparisDetay.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="SiparisDetayRaporlar.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\SiparisDetayRaporlar.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="SiparisForm.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\SiparisForm.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="SiparisIslemleri.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\SiparisIslemleri.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="StokBilgiForm.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\StokBilgiForm.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="StokBilgileri.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\StokBilgileri.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="TahsilatForm.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\TahsilatForm.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="TahsilatFormGiris .cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\TahsilatFormGiris .cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="TahsilatRapor.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\TahsilatRapor.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="ZiyaretForm.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\ZiyaretForm.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="ZiyaretRaporForm.cs" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\ZiyaretRaporForm.cs">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="MiktarConfig.xml" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\MiktarConfig.xml">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="padtablolari.sql" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\padtablolari.sql">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="VadeConfig.xml" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\VadeConfig.xml">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="AktarmalarForm.resx" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\AktarmalarForm.resx">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="CariBilgiForm.resx" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\CariBilgiForm.resx">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="ConfigurationForm.resx" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\ConfigurationForm.resx">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="Form1.resx" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="KilometreGiris.resx" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\KilometreGiris.resx">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="MISC01.ICO" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\MISC01.ICO">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="SifreSor.resx" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\SifreSor.resx">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="SiparisBaslikRaporForm.resx" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\SiparisBaslikRaporForm.resx">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="SiparisDetay.resx" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\SiparisDetay.resx">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="SiparisDetayRaporlar.resx" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\SiparisDetayRaporlar.resx">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="SiparisForm.resx" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\SiparisForm.resx">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="StokBilgiForm.resx" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\StokBilgiForm.resx">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="TahsilatForm.resx" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\TahsilatForm.resx">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="TahsilatFormGiris .resx" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\TahsilatFormGiris .resx">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="TahsilatRapor.resx" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\TahsilatRapor.resx">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="ZiyaretForm.resx" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\ZiyaretForm.resx">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="ZiyaretRaporForm.resx" Description="File successfully backed up as D:\alikadir_yedek\desktop\flash_yedek\EnterpriceMobile\Backup1\ZiyaretRaporForm.resx">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="EnterpriceMobile.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EnterpriceMobile" Source="EnterpriceMobile.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="EnterpriceMobile.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="EnterpriceMobile.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="AktarmalarForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="EnterpriceMobile" Source="AktarmalarForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="CariBilgiForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="EnterpriceMobile" Source="CariBilgiForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="ConfigurationForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="EnterpriceMobile" Source="ConfigurationForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="Form1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="EnterpriceMobile" Source="Form1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="KilometreGiris.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="EnterpriceMobile" Source="KilometreGiris.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="SifreSor.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="EnterpriceMobile" Source="SifreSor.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="SiparisBaslikRaporForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="EnterpriceMobile" Source="SiparisBaslikRaporForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="SiparisDetay.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="EnterpriceMobile" Source="SiparisDetay.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="SiparisDetayRaporlar.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="EnterpriceMobile" Source="SiparisDetayRaporlar.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="SiparisForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="EnterpriceMobile" Source="SiparisForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="StokBilgiForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="EnterpriceMobile" Source="StokBilgiForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="TahsilatForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="EnterpriceMobile" Source="TahsilatForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="TahsilatFormGiris .resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="EnterpriceMobile" Source="TahsilatFormGiris .resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="TahsilatRapor.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="EnterpriceMobile" Source="TahsilatRapor.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="ZiyaretForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="EnterpriceMobile" Source="ZiyaretForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="ZiyaretRaporForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="EnterpriceMobile" Source="ZiyaretRaporForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="EnterpriceMobile.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="EnterpriceMobile" Source="EnterpriceMobile.csproj" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event></UpgradeLog>

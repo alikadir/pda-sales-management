@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+	<Miktar>
+		<Baslangic>0</Baslangic>
+		<Bitis>4</Bitis>
+		<Fileld>AF1</Fileld>
+	</Miktar>
+	<Miktar>
+		<Baslangic>5</Baslangic>
+		<Bitis>9</Bitis>
+		<Fileld>AF2</Fileld>
+	</Miktar>
+	<Miktar>
+		<Baslangic>10</Baslangic>
+		<Bitis>99</Bitis>
+		<Fileld>AF3</Fileld>
+	</Miktar>
+	<Miktar>
+		<Baslangic>100</Baslangic>
+		<Bitis>499</Bitis>
+		<Fileld>AF4</Fileld>
+	</Miktar>
+	<Miktar>
+		<Baslangic>500</Baslangic>
+		<Bitis>5000</Bitis>
+		<Fileld>AF5</Fileld>
+	</Miktar>
+</Config>

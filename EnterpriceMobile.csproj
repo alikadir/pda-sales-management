@@ -1,0 +1,267 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BD49C0FD-94F6-454C-B5D3-570D20A9C8D5}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <ApplicationIcon>MISC01.ICO</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>EnterpriceMobile</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <OutputFileFolder>\Program Files\EnterpriceMobile</OutputFileFolder>
+    <RootNamespace>EnterpriceMobile</RootNamespace>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <FormFactorID>
+    </FormFactorID>
+    <OSVersion>4.20</OSVersion>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <NativePlatformName>Pocket PC 2003</NativePlatformName>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PlatformID>3C41C503-53EF-4c2a-8DD4-A8217CAD115E</PlatformID>
+    <PlatformFamilyName>PocketPC</PlatformFamilyName>
+    <DeployDirSuffix>$(AssemblyName)</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>0</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <GenerateSerializationAssemblies>off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>0</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <GenerateSerializationAssemblies>off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib">
+      <Name>MSCorLib</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data.Common">
+      <Name>System.Data.Common</Name>
+    </Reference>
+    <Reference Include="System.Data.SqlClient">
+      <Name>System.Data.SqlClient</Name>
+    </Reference>
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.0.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3, processorArchitecture=MSIL" />
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Web.Services">
+      <Name>System.Web.Services</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataGrid">
+      <Name>System.Windows.Forms.DataGrid</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AktarmalarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Cari.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CariBilgiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="config.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ConfigurationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DateCombos.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DBProcess.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KilometreGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SifreSor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparisBaslikRaporForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparisDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparisDetayRaporlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparisIslemleri.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="StokBilgiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StokBilgileri.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TahsilatForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TahsilatFormGiris .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TahsilatRapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZiyaretForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZiyaretRaporForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <EmbeddedResource Include="AktarmalarForm.resx">
+      <DependentUpon>AktarmalarForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CariBilgiForm.resx">
+      <DependentUpon>CariBilgiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigurationForm.resx">
+      <DependentUpon>ConfigurationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KilometreGiris.resx">
+      <DependentUpon>KilometreGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MISC01.ICO" />
+    <EmbeddedResource Include="SifreSor.resx">
+      <DependentUpon>SifreSor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiparisBaslikRaporForm.resx">
+      <DependentUpon>SiparisBaslikRaporForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiparisDetay.resx">
+      <DependentUpon>SiparisDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiparisDetayRaporlar.resx">
+      <DependentUpon>SiparisDetayRaporlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiparisForm.resx">
+      <DependentUpon>SiparisForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StokBilgiForm.resx">
+      <DependentUpon>StokBilgiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TahsilatForm.resx">
+      <DependentUpon>TahsilatForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TahsilatFormGiris .resx">
+      <DependentUpon>TahsilatFormGiris .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TahsilatRapor.resx">
+      <DependentUpon>TahsilatRapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZiyaretForm.resx">
+      <DependentUpon>ZiyaretForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZiyaretRaporForm.resx">
+      <DependentUpon>ZiyaretRaporForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <Content Include="MiktarConfig.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="padtablolari.sql">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="VadeConfig.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v3.5'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+</Project>

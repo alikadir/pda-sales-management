@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "EnterpriceMobile", "EnterpriceMobile.csdproj", "{BD49C0FD-94F6-454C-B5D3-570D20A9C8D5}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{BD49C0FD-94F6-454C-B5D3-570D20A9C8D5}.Debug.ActiveCfg = Debug|Pocket PC
+		{BD49C0FD-94F6-454C-B5D3-570D20A9C8D5}.Debug.Build.0 = Debug|Pocket PC
+		{BD49C0FD-94F6-454C-B5D3-570D20A9C8D5}.Debug.Deploy.0 = Debug|Pocket PC
+		{BD49C0FD-94F6-454C-B5D3-570D20A9C8D5}.Release.ActiveCfg = Release|Pocket PC
+		{BD49C0FD-94F6-454C-B5D3-570D20A9C8D5}.Release.Build.0 = Release|Pocket PC
+		{BD49C0FD-94F6-454C-B5D3-570D20A9C8D5}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

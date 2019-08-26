@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+	<k>		
+		<Adi>Kredi Kartı</Adi>
+		<Maximum>21</Maximum>
+		<Field>IND2</Field>
+	</k>
+	<n>		
+		<Adi>Nakit</Adi>
+		<Maximum>7</Maximum>
+		<Field>IND1</Field>
+	</n>
+	<c>		
+		<Adi>Çek</Adi>
+		<Maximum>45</Maximum>
+		<Field>IND3</Field>
+	</c>
+	<s>	
+		<Adi>Senet</Adi>
+		<Maximum>30</Maximum>
+		<Field>IND3</Field>
+	</s>
+</Config>
